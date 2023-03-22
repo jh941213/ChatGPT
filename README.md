@@ -1,1 +1,1 @@
-# news_summary_project
+# Dacon Chat GPT competition
